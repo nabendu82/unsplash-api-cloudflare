@@ -1,0 +1,7 @@
+name = "unsplash-api"
+type = "javascript"
+
+account_id = "use_your_own"
+workers_dev = true
+route = ""
+zone_id = ""
